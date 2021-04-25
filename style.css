@@ -1,0 +1,44 @@
+body {
+    background-image: url("./Assets/weather-app.jpg");
+    background-color: rgb(201, 222, 223);
+}
+.container {
+    padding-top: 10px;
+    margin: auto;
+}
+
+#currentWeather, #searchBox {
+    background-color:  rgb(201, 222, 223);
+    box-shadow: 3px 3px 3px 3px grey;
+}
+
+#currentWeather1 {
+    border: 3px solid #f1f1f1;
+    border-radius: 15px;
+    /* box-shadow: 10px 10px 5px rgb(143, 137, 137); */
+    transition: 0.3s;
+    /* width: 350px; */
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.76)
+}
+
+#currentForcast {
+    margin-left: 0;
+}
+
+.btn-primary {
+    width: 100%;
+}
+
+
+.fiveDayDiv {
+    padding: 10px;
+    background-color:  rgb(201, 222, 223);
+    color: white;
+    float: left;
+    margin: 15px;
+    width: auto;
+    border: 1px solid lightgray;
+    
+}
