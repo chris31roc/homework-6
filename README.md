@@ -1,6 +1,6 @@
 # Work Day Calendar
 
-![Photo of Application](./Assets/weather-app.png)
+![Photo of Application](./Assets/wather-app.png)
 
 
 # Link to Application
@@ -28,6 +28,8 @@ Weather App is an application using a third-party API that will allow access to 
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
+- HTML
+
+- CSS
+
+- JavaScript
