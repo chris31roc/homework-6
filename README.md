@@ -11,7 +11,7 @@
 
 * [Description](#Description)
 * [Author](#Author)
-* [Technologies Used](#Technologies#Used)
+* [Technologies Used](#Technologies-Used)
 
 
 ## Description
