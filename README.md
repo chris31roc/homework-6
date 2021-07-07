@@ -1,6 +1,6 @@
 # Work Day Calendar
 
-![Photo of Application](./assets/weather-app.png)
+![Photo of Application](./Assets/weather-app.png)
 
 
 # Link to Application
