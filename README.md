@@ -16,7 +16,7 @@
 
 ## Description
  
-Weather App is an application using a third-party API that will allow access to weather data to build a weather dashboard for a five-day forecast that will run in the browser and feature updated HTML, CSS and JavaScript/jQuery.
+Weather App is an application using OpenWeather API, which is a third-party API that will allow access to weather data to build a weather dashboard for a five-day forecast that will run in the browser and feature updated HTML, CSS and JavaScript/jQuery. The user can search for a city and will be presented with the current and future conditions for that city. The city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index colored according to the index level (Green="Low", Yellow="Moderate", Orange="High", Red="Very high" and Violet="Extreme") will be displayed. The user can also view a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity for that city. That city is then added to the search history. The user can view current weather conditions for that saved city with just one click.
 
 ## Author
 
@@ -32,4 +32,4 @@ Weather App is an application using a third-party API that will allow access to 
 
 - CSS
 
-- JavaScript
+- JavaScript/jQuery
